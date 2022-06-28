@@ -1,0 +1,6 @@
+.list-group-item {
+    border-bottom:1px solid grey!important; ;
+}
+.actives{
+    text-decoration: line-through;
+}

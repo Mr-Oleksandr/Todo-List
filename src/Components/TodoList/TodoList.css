@@ -1,0 +1,16 @@
+.list-group{
+    width: 100%;
+}
+.list-group-item {
+    cursor: pointer;
+}
+.badge{
+    margin-right: 10px;
+    border: none;
+}
+.fa-check-circle{
+    color: lightgreen;
+}
+.fa-trash-o{
+    color: lightcoral;
+}
